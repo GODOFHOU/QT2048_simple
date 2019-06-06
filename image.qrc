@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="square">方格.png</file>
+    </qresource>
+</RCC>
